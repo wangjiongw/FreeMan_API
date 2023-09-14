@@ -1,9 +1,13 @@
 # FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild
 This is the Official Repository for FreeMan dataset
 
-<p align="center">
+<p align="left">
     <font size='6'>
-    <a href="https://wangjiongw.github.io/freeman" target="_blank">🌏 Project Page</a> • <a href="https://youtu.be/g2h1YW-3n5k" target="_blank">▶️ YouTube </a> • <a href="https://wangjiongw.github.io/freeman/download.html" target="_blank">📀 Download</a>
+    <a href="https://wangjiongw.github.io/freeman" target="_blank">🌏 Project Page</a> • 
+      <a href="https://wangjiongw.github.io/freeman/download.html" target="_blank">🙋‍♂️ Request</a> • 
+      <a href="https://arxiv.org/abs/2309.05073" target="_blank">📄 Paper </a> • 
+      <a href="https://www.youtube.com/watch?v=g2h1YW-3n5k" target="_blank">▶️ YouTube </a> • 
+      <a href="https://github.com/wangjiongw/FreeMan_API" target="_blank">🖥️ Code </a>
     </font>
 </p>
 
@@ -66,9 +70,21 @@ kpts3d = FreeMan.load_keypoints3d(freeman.keypoints3d_dir, "SESSION_ID")
 
 ```
 
+## Citation
+
+If you find FreeMan helpful and used in your project, please cite our paper.
+```
+@article{wang2023freeman,
+  title={FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild},
+  author={Wang, Jiong and Yang, Fengyu and Gou, Wenbo and Li, Bingliang and Yan, Danqi and Zeng, Ailing and Gao, Yijun and Wang, Junle and Zhang, Ruimao},
+  journal={arXiv preprint arXiv:2309.05073},
+  year={2023}
+}
+```
+
 ## License & Ackowledgement
 
-This project and FreeMan dataset uses lisence of CC BY NC.
+This project and FreeMan dataset uses lisence of CC BY NC SA 4.0.
 
 Great appreciation to all volunteers participated in FreeMan.
 
