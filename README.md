@@ -21,7 +21,7 @@ This is the Official Repository for FreeMan dataset
 Hi! We are almost there! Data are uploading to cloud server. Please sign this [Form](https://forms.gle/XN3UE6ZqPYyQG76Y7) for latest updates.
 
 ## Dataset Structure
-After downloading datasets, file structure are organized as follows.
+After downloading datasets, files are expected to be uncompressed as following. You can also adjust for your convenience.
 ```
     FreeMan
         ├── 30FPS
