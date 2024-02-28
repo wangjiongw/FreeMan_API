@@ -1,5 +1,5 @@
 # FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild
-This is the Official Repository for FreeMan dataset
+This is the Official Repository for FreeMan dataset, including example loading codes for FreeMan dataset.
 
 <p align="left">
     <font size='6'>
@@ -14,6 +14,9 @@ This is the Official Repository for FreeMan dataset
 ![](./figs/Intro.png)
 
 ## News
+[2024-02-24]
+FreeMan is accepted by CVPR2024! See you all in Seattle this summer.
+
 [2023-09-07]
 [Project page](https://wangjiongw.github.io/freeman) updated! Details & download methods are presented.
 
